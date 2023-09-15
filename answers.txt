@@ -1,0 +1,2 @@
+What is the difference between a merge and a rebase?
+The difference between a merge and a rebase is that a merge will preserve history as it combines changes from one branch into another while a rebase will rewrite history as it moves changes from one branch to another.
